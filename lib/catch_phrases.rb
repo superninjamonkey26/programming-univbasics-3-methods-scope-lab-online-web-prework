@@ -14,3 +14,7 @@ def link
   puts link
 end
 
+def greeting(name)
+  puts "Hello, #{name}!"
+end
+greeting("Maria")
