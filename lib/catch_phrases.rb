@@ -14,7 +14,7 @@ def link
   puts link
 end
 
-def any_phrase
+def phrase
   phrase = "Do A Barrell Roll!\n"
-  puts any_phrase(phrase)
+  puts phrase
 end
