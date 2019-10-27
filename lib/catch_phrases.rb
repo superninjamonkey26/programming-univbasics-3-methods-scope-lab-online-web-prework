@@ -14,9 +14,3 @@ def link
   puts link
 end
 
-any_phrase
-def any_phrase(phrase)
-  phrase = "Do A Barrell Roll"
-  puts "Do A Barrell Roll!\n"
-end
-any_phrase
