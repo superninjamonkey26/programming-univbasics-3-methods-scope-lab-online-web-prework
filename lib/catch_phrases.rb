@@ -14,7 +14,7 @@ def link
   puts link
 end
 
-def greeting(name)
-  puts "Hello, #{name}!"
+def any_phrase(phrase)
+  puts "Hello, #{phrase}!"
 end
 greeting("Maria")
